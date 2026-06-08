@@ -158,6 +158,26 @@ These APIs are widely used by agents but their specs currently score below 60 on
 
 ---
 
+## Use These APIs With Your Agent
+
+Every API on this list is available in the [Jentic Public APIs](https://github.com/jentic/jentic-public-apis) catalogue. To give your agent access to any of them without hardcoding credentials or writing glue code, use **[Jentic Mini](https://github.com/jentic/jentic-mini)** — a self-hosted API execution layer that sits between your agent and the outside world.
+
+```bash
+# Get Jentic Mini running
+docker run -d --name jentic-mini -p 8900:8900 -v jentic-mini-data:/app/data jentic/jentic-mini
+```
+
+Your agent says what it wants to do. Jentic Mini handles the how — finding the right API operation, injecting credentials at runtime, and brokering the request. Secrets never touch the agent.
+
+- **10,000+ APIs** from the Jentic public catalogue, auto-imported when you add credentials
+- **Credential vault** — API keys and OAuth tokens stored encrypted, injected at execution time
+- **Toolkits** — scoped access policies per agent, individually revocable
+- **No glue code** — your agent searches for operations by intent, Jentic Mini executes them
+
+[Get started →](https://github.com/jentic/jentic-mini)
+
+---
+
 ## Score Your Own APIs
 
 Want to see how your APIs score for AI-agent readiness?
