@@ -18,7 +18,7 @@
 
 A valid OpenAPI spec doesn't mean an agent can use it. Most specs were written for human developers reading docs, not for an agent reasoning about operations on its own. This list is a collection of the APIs agents need most, split into the ones a spec can carry today and the essential ones whose specs still make an agent work harder. Every entry links straight to the standardised spec in the [Jentic API Directory](https://github.com/jentic/jentic-public-apis).
 
-## Why this matters even in the age of MCPs
+## Why this matters in the age of MCPs
 
 The obvious objection: *if an API matters, someone builds an MCP for it, so who cares about the raw spec?*
 
