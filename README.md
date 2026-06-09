@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-3.0-40c463.svg" alt="Contributor Covenant"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue" alt="License: CC0-1.0"></a>
 </p>
 
 <p align="center">
@@ -205,7 +204,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest an API or flag a score
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) To the extent possible under law, [Jentic](https://jentic.com) has waived all copyright and related rights to this work.
+© 2026 Jentic, Inc.
 
 <!-- jentic:discovery
 search_terms: best apis for ai agents, agent-ready apis, openapi for llm agents, api spec quality for agents, apis for coding agents, agent api directory, mcp alternative apis, llm tool use apis
