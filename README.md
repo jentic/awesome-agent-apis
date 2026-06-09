@@ -1,4 +1,14 @@
-# Awesome Agent APIs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+<p align="center">
+  <img src="assets/banner.png" alt="Awesome Agent APIs — the APIs AI agents can actually use" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey" alt="License: CC0-1.0"></a>
+  <a href="https://discord.com/invite/TdbWXZsUSm"><img src="https://img.shields.io/badge/Discord-Join%20our%20community-5865F2?logo=discord&logoColor=white" alt="Join our Discord community"></a>
+  <a href="https://x.com/JenticAI"><img src="https://img.shields.io/badge/Follow-%40JenticAI-000000?logo=x&logoColor=white" alt="Follow on X"></a>
+  <a href="https://www.linkedin.com/company/jentic/"><img src="https://img.shields.io/badge/LinkedIn-Jentic-0A66C2?logo=linkedin&logoColor=white" alt="Follow on LinkedIn"></a>
+</p>
 
 > The APIs AI agents reach for most, and how usable each one actually is from its OpenAPI spec, scored with the open [Jentic API AI-Readiness Framework](https://github.com/jentic/api-ai-readiness-framework).
 
