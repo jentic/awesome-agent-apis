@@ -5,6 +5,9 @@
 <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
   <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://img.shields.io/badge/License-CC0--1.0-lightgrey" alt="License: CC0-1.0"></a>
+</p>
+
+<p align="center">
   <a href="https://discord.com/invite/TdbWXZsUSm"><img src="https://img.shields.io/badge/Discord-Join%20our%20community-5865F2?logo=discord&logoColor=white" alt="Join our Discord community"></a>
   <a href="https://x.com/JenticAI"><img src="https://img.shields.io/badge/Follow-%40JenticAI-000000?logo=x&logoColor=white" alt="Follow on X"></a>
   <a href="https://www.linkedin.com/company/jentic/"><img src="https://img.shields.io/badge/LinkedIn-Jentic-0A66C2?logo=linkedin&logoColor=white" alt="Follow on LinkedIn"></a>
