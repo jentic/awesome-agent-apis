@@ -18,7 +18,7 @@
 
 A valid OpenAPI spec doesn't mean an agent can use it. Most specs were written for human developers reading docs, not for an agent reasoning about operations on its own. This list is a collection of the APIs agents need most, split into the ones a spec can carry today and the essential ones whose specs still make an agent work harder. Every entry links straight to the standardised spec in the [Jentic API Directory](https://github.com/jentic/jentic-public-apis).
 
-## Why this matters in the age of MCPs
+## Why this matters even in the age of MCPs
 
 The obvious objection: *if an API matters, someone builds an MCP for it, so who cares about the raw spec?*
 
@@ -113,7 +113,7 @@ APIs whose specs an agent can read and operate today. Names link to the standard
 | API | What your agent can do with it | Agent Usability | AI-Readiness |
 |-----|--------------------------------|----------------:|-------------:|
 | [SendGrid Mail API](https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/sendgrid.com/mail) | Send transactional and marketing email and track delivery events | 93.7 | 41.4 |
-| [Resend](https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/resend.com/main) | Send transactional email and manage domains, audiences, and broadcasts | 91.1 | 31.6 |
+| [Resend](https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/resend.com/main) | Send transactional email and manage domains, audiences, and broadcasts | 91.0 | 31.6 |
 
 ## Monitoring & Observability
 
