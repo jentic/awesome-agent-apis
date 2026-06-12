@@ -32,8 +32,10 @@ We report two dimensions from the [JAIRF framework](https://github.com/jentic/ap
 
 | Signal | What it measures |
 |--------|-----------------|
-| **Agent Usability** | Can an agent operate the API safely? Endpoint count, schema depth, complexity, orchestration readiness. |
+| **Agent Usability** | How much structural complexity an agent has to handle: endpoint count and schema depth. Small, focused APIs with shallow schemas score highest. |
 | **AI-Readiness** | Can an agent *understand* what the API does? Description coverage, semantic richness, operation-ID quality, summary clarity. |
+
+A note on the numbers: Agent Usability peaks at 93.7. That is the ceiling for an API with no meaningful structural complexity (roughly under 50 operations, shallow schemas), and many well-designed, focused APIs earn exactly that ceiling, which is why you will see it repeatedly in the Agent-ready tier. AI-Readiness varies more between APIs, so it is usually the differentiator.
 
 The framework's other four dimensions (Security, Compliance, Developer Experience, Discoverability) matter for governance and tooling, but they don't tell you whether an agent can read and operate the API. That's what these two do.
 
@@ -169,7 +171,7 @@ docker run -d --name jentic-mini -p 8900:8900 -v jentic-mini-data:/app/data jent
 
 Your agent says what it wants to do. Jentic Mini handles the how: finding the right operation, injecting credentials at runtime, brokering the request. Secrets never touch the agent.
 
-- **10,000+ APIs** from the directory, available once you add credentials
+- **7,400+ APIs** from the directory, available once you add credentials
 - **Credential vault:** keys and OAuth tokens stored encrypted, injected at execution time
 - **Toolkits:** scoped, individually revocable access per agent
 - **No glue code:** your agent searches by intent, and Jentic Mini executes
@@ -205,7 +207,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest an API or flag a score
 
 ## License
 
-© 2026 Jentic, Inc.
+Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): use it, share it, build on it, with attribution.
+
+© 2026 Jentic.
 
 <!-- jentic:discovery
 search_terms: best apis for ai agents, agent-ready apis, openapi for llm agents, api spec quality for agents, apis for coding agents, agent api directory, mcp alternative apis, llm tool use apis
