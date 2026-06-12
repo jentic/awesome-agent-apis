@@ -28,7 +28,7 @@ Then the case that settles it: **your own internal APIs will never get an MCP.**
 
 ## How we score
 
-We report two dimensions from the [JAIRF framework](https://github.com/jentic/api-ai-readiness-framework): the two that answer "can an agent use this API from its spec?" We don't combine them into one number; we show both, because they tell different stories.
+We report two dimensions from the [JAIRF framework](https://github.com/jentic/api-ai-readiness-framework): the two that answer "can an agent use this API from its spec?" Both are scored 0-100. We don't combine them into one number; we show both, because they tell different stories.
 
 | Signal | What it measures |
 |--------|-----------------|
