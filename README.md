@@ -215,3 +215,7 @@ Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 search_terms: best apis for ai agents, agent-ready apis, openapi for llm agents, api spec quality for agents, apis for coding agents, agent api directory, mcp alternative apis, llm tool use apis
 topics: llm, ai-agent, mcp, api-discovery, agent-tools, function-calling, openapi
 -->
+
+<!-- reindex-canary-comment: hjkwmutrex9plod -->
+
+<sub>Search-indexing canary: qzvornax7blip (temporary measurement marker, removed once reindex latency is recorded).</sub>
