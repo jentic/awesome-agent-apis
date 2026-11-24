@@ -109,6 +109,7 @@ APIs whose specs an agent can read and operate today. Names link to the standard
 |-----|--------------------------------|----------------:|-------------:|
 | [Supabase Management API](https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/supabase.com/main) | Provision and configure Supabase projects, databases, and auth settings | 93.7 | 54.6 |
 | [Neon API](https://github.com/jentic/jentic-public-apis/tree/main/apis/openapi/neon.tech/main) | Provision serverless Postgres projects, branches, and database endpoints | 71.9 | 53.3 |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) | 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts |  |  |
 
 ## Communication & Email
 
